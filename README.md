@@ -1,3 +1,11 @@
-# HOSAKA CHIAKI PORTFOLIO SITE
+# fresh project
 
-denoのWebフレームワークFreshを使用して作りました
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
