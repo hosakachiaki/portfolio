@@ -47,9 +47,12 @@ return (
     <div class={tw("max-w-screen-lg mx-auto mb-80 px-4")} id="works">
       {data.articles[0].map((article) => (
         <a href={`/works/${article.id}`}>
-          <figure key={article.id} class={tw("mb-8")}>
+          <figure key={article.id} class={tw("mb-1")}>
             <img class={tw("mx-auto rounded-lg")} src={article.cover.url} />
           </figure>
+          <h2 class={tw(
+                "text-white text-right text-lg mb-8"
+              )}>{article.title}</h2>
         </a>
       ))}
     </div>
