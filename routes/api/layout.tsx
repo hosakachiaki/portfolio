@@ -16,7 +16,6 @@ export function Layout({ children }:PageProps) {
       >
         <Head>
           <title>HOSAKA CHIAKI | Portfolio Web Site</title>
-          
         </Head>
         {children}
         <Footer></Footer>
