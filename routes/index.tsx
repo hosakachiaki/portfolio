@@ -95,6 +95,7 @@ return (
             営業目的のメール、圧縮ファイルが添付されているメール、またお名前や会社名のないメールには返信しておりません。
           </p>
           <h3>hosakachiaki@gmail.com</h3>
+          <p><a href="https://twitter.com/yyk_kk">X @yyk_kk</a>（同人活動共用）</p>
         </section>
       </div>
     </div>
