@@ -15,6 +15,7 @@ export function Layout({ children }:PageProps) {
         )}
       >
         <Head>
+            <meta name=”robots” content=”noindex”>
           <title>HOSAKA CHIAKI | Portfolio Web Site</title>
         </Head>
         {children}
